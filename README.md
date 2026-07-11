@@ -2,9 +2,11 @@
 Hyprland-layout-osd is a service written on Rust that displays the name of the switched keyboard layout via SwayOSD.
 This is my first Rust project, so please go easy on me!
 
+Currently, only two keyboard layouts are supported: English and Russian.
+
 ### Images
-![image 1] (assets/image.png)
-![image 2] (assets/image 2.png)
+![image 1](assets/en_layout.png)
+![image 2](assets/ru_layout.png)
 ### Dependencies
 - On Arch: rustup, base-devel
 - Hyprland

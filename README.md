@@ -21,4 +21,4 @@ Currently, only two keyboard layouts are supported: English and Russian.
 5. Run the following command in the project directory: `cargo build --release`.
 6. Create the `~/.local/bin` directory if it does not exist: `mkdir -p ~/.local/bin`.
 7. Copy the project binary to `~/.local/bin`: `cp target/release/hypr-layout-osd ~/.local/bin/`.
-8. Add `exec-once = ~/.local/bin/hypr-layout-osd` to your Hyprland configuration to launch the script automatically at system startup.
+8. Add `exec-once = ~/.local/bin/hypr-layout-osd` to your Hyprland configuration `~/.config/hypr/hyprland.conf` to launch the script automatically at system startup.

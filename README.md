@@ -3,8 +3,8 @@ Hyprland-layout-osd is a service written on Rust that displays the name of the s
 This is my first Rust project, so please go easy on me!
 
 ### Images
-![[assets/image.png]]
-![[assets/image 2.png]]
+![image 1] (assets/image.png)
+![image 2] (assets/image 2.png)
 ### Dependencies
 - On Arch: rustup, base-devel
 - Hyprland
